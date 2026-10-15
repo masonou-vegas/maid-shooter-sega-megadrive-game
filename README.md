@@ -1,8 +1,10 @@
 # Maid Shooter
 
-Maid Shooter — Sega Mega Drive (Genesis) homebrew shooter.
+Maid Shooter is a Panorama Cotton-style pseudo-3D rail shooter for the Sega Mega Drive.
 
-This repository contains the distribution/build for the game (no source included here). If you plan to add the .bin build, put it in the `builds/` directory or attach it to a Release.
+You play as Miyu, a maid cafe worker who gains angel wings from a magical ribbon when yokai invade Tokyo. Blast through three stages — the Tokyo skyline, the countryside beneath Mount Fuji, and a crystal cave inside the mountain itself — facing off against the Daitengu, a tengu-masked maid, and the cafe's most popular maid, who sold out to the yokai.
+
+Features 3 stages with unique visuals and music, 3 bosses, a pause menu, configurable lives/bombs, and a stage select.
 
 ## Contents
 
